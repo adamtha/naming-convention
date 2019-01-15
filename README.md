@@ -5,7 +5,8 @@
  - [Powershell name convention](Powershell.md)
  - [R style guide and name convention](R%20style%20uide%20and%20name%20convention.md)
  - [SQL Server Name Convention and T-SQL Programming Style](SQL%20Server%20Name%20Convention%20and%20T-SQL%20Programming%20Style.md)
-
+ - [Create portable, custom editor settings with EditorConfig](https://docs.microsoft.com/en-us/visualstudio/ide/create-portable-custom-editor-options)
+ 
 ## Useful links for name conventions
  - [NET Naming Guidelines][1]
  - [Framework Design Guidelines][2]
